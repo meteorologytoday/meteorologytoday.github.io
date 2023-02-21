@@ -1,3 +1,28 @@
-domain: meteorologytoday.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://meteorologytoday.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /_site/      # place folder name if the site is served in a subfolder
+# Dependencies
+markdown:         redcarpet
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Tien-Yiao Hsu'
+tagline:          'A Jekyll theme'
+description:      'Personal site'
+url:              https://meteorologytoday.github.io/
+baseurl:          /
+
+author:
+  name:           'Tien-Yiao Hsu'
+  url:            https://twitter.com/mdo
+  email:          tienyiao@ucsd.edu
+
+paginate:         1
+paginate_path:   "/page:num/"
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
