@@ -22,3 +22,12 @@ gem "rogue", "~> 0.1.1"
 
 # Added at 2023-02-20 09:31:15 -0600 by jekyll:
 gem "webrick", "~> 1.8"
+
+# Added at 2023-03-04 13:40:31 -0600 by jekyll:
+gem "jekyll-extlinks", "~> 0.0.4"
+
+# Added at 2023-03-04 13:53:21 -0600 by jekyll:
+gem "kramdown", "~> 2.4"
+
+# Added at 2023-03-04 13:54:03 -0600 by jekyll:
+gem "kramdown-parser-gfm", "~> 1.1"

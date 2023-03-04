@@ -75,6 +75,9 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-extlinks (0.0.4)
+      jekyll (~> 3.0)
+      nokogiri (~> 1.6)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
@@ -84,6 +87,8 @@ GEM
       listen (~> 3.0)
     kramdown (2.4.0)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.4)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -188,8 +193,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.9)
+  jekyll-extlinks (~> 0.0.4)
   jekyll-gist (~> 1.5)
   jekyll-paginate (~> 1.1)
+  kramdown (~> 2.4)
+  kramdown-parser-gfm (~> 1.1)
   redcarpet (~> 3.6)
   rogue (~> 0.1.1)
   webrick (~> 1.8)

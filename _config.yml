@@ -1,8 +1,10 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
+#redcarpet
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-extlinks
 
 # Permalinks
 permalink:        pretty
