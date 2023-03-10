@@ -31,3 +31,6 @@ gem "kramdown", "~> 2.4"
 
 # Added at 2023-03-04 13:54:03 -0600 by jekyll:
 gem "kramdown-parser-gfm", "~> 1.1"
+
+# Added at 2023-03-10 10:42:07 -0600 by jekyll:
+gem "jekyll-paginate-v2", "~> 3.0"

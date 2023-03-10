@@ -2,6 +2,9 @@
 layout: page
 title: Blog
 sidebar_order: 2
+
+pagination: 
+  enabled: true
 ---
 
 <div class="posts">
