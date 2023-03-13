@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-sidebar_order: 3
+sidebar_order: 4
 ---
 
 ## Self study

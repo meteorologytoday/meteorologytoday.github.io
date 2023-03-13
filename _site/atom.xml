@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tien-Yiao Hsu</title>
- <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
- <link href="http://0.0.0.0:4000/"/>
- <updated>2023-03-10T10:48:33-06:00</updated>
- <id>http://0.0.0.0:4000</id>
+ <link href="https://meteorologytoday.github.io//atom.xml" rel="self"/>
+ <link href="https://meteorologytoday.github.io//"/>
+ <updated>2023-03-13T12:58:07-05:00</updated>
+ <id>https://meteorologytoday.github.io/</id>
  <author>
    <name>Tien-Yiao Hsu</name>
    <email>tienyiao@ucsd.edu</email>
@@ -13,46 +13,39 @@
 
  
  <entry>
-   <title>Introducing Hyde2</title>
-   <link href="http://0.0.0.0:4000/2023/03/10/mesoscale-workshop-boulder-notes/"/>
+   <title>Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</title>
+   <link href="https://meteorologytoday.github.io//2023/03/10/mesoscale-workshop-boulder-notes.md/"/>
    <updated>2023-03-10T00:00:00-06:00</updated>
-   <id>http://0.0.0.0:4000/2023/03/10/mesoscale-workshop-boulder-notes</id>
-   <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <id>https://meteorologytoday.github.io//2023/03/10/mesoscale-workshop-boulder-notes.md</id>
+   <content type="html"># Basic Info
+[Website and Agenda](https://usclivar.org/meetings/mesoscale-and-frontal-scale-agenda)
 
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+# Notes
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
+## Lucas Laurindo (U Miami)
 
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
+* The impact of resolution on thermal heat flux (THF): Kirtman et al (2012), Bishop et al (2017). He showed figures of correlation between THF and SST, THF and dSST/dt.
+* Atmoshperic response to mesoscale : Small and Masadek et al (2019), Small and Bryan et al (2019), Small et al (2020)
+* Timescale matters: Laurindo et al (2022)
 
-&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
 
-&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
+# References:
 
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+* Kirtman, B. P., Bitz, C., Bryan, F., Collins, W., Dennis, J., Hearn, N., ... &amp; Vertenstein, M. (2012). Impact of ocean model resolution on CCSM climate simulations. Climate dynamics, 39, 1303-1328.
 
-&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+* Bishop, S. P., Small, R. J., Bryan, F. O., &amp; Tomas, R. A. (2017). Scale dependence of midlatitude air–sea interaction. Journal of Climate, 30(20), 8207-8221.
 
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+* Laurindo, L. C., Small, R. J., Thompson, L., Siqueira, L., Bryan, F. O., Chang, P., ... &amp; Zhang, S. (2022). Role of Ocean and Atmosphere Variability in Scale‐Dependent Thermodynamic Air‐Sea Interactions. Journal of Geophysical Research: Oceans, 127(7), e2021JC018340.
 
-&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
 
-&lt;p&gt;Thanks!&lt;/p&gt;
+* Small, R. J., Msadek, R., Kwon, Y. O., Booth, J. F., &amp; Zarzycki, C. (2019). Atmosphere surface storm track response to resolved ocean mesoscale in two sets of global climate model experiments. Climate Dynamics, 52, 2067-2089.
+
+* Small, R. J., Bryan, F. O., Bishop, S. P., &amp; Tomas, R. A. (2019). Air–sea turbulent heat fluxes in climate models and observational analyses: What drives their variability?. Journal of Climate, 32(8), 2397-2421.
+
+* Small, R. J., Bryan, F. O., Bishop, S. P., Larson, S., &amp; Tomas, R. A. (2020). What drives upper-ocean temperature variability in coupled climate models and observations?. Journal of Climate, 33(2), 577-596.
+
 </content>
  </entry>
  
