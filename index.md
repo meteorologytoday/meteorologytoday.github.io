@@ -25,6 +25,7 @@ My research interests are air-sea exchange, MOC dynamics, large-scale geophysica
 
 
 ## Oral Presentations
+* Climate Hotspot in Action (CHiA) Webinar, National Taiwan University (Virtual), 2023: A Hierarchy of Global Ocean Models Coupled to CESM1 [(Website)](https://hydro.as.ntu.edu.tw/chia/webinar-series-2/)
 * CESM Climate Variability and Change Winter Working Group Meeting (Virtual), 2023: A Hierarchy of Global Ocean Models Coupled to CESM1 [(Website)](https://www.cesm.ucar.edu/events/working-groups/2023)
 * 103rd AMS Annual Meeting, Denver, CO, United States, 2023: Explore the Effect of Air-sea Coupling on Tropical Rainfall under Global Warming [(Website)](https://annual.ametsoc.org/index.cfm/2023/)
 * 2nd Model Hierarchies Workshop, Stanford University, CA, United States, 2022: A Hierarchy of Global Ocean Models Coupled to CESM1 [(Website)](https://model-hierarchy.sciencesconf.org/resource/page/id/15)
