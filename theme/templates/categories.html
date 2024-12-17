@@ -4,7 +4,7 @@
 <h1>Posts Categories</h1>
 <ul>
 {% for category, articles in categories %}
-    <li><a href="{{ SITEURL }}/category/{{ category.slug }}/">{{ category }}</a> ({{ articles|length }})</li>
+    <li><a href="{{ SITEURL }}/category/{{ category.slug }}">{{ category }}</a> ({{ articles|length }})</li>
 {% endfor %}
 </ul>
 {% endblock %}
