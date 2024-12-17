@@ -1,0 +1,27 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <div class="profile">
+          <img src="/theme/profile_pic.jpg" class="profile" style="width:100px;">
+      </div>
+      <h1>
+        <a href="/">
+          Tien-Yiao Hsu
+        </a>
+      </h1>
+      <p class="lead">Climate / Physical Oceanography</p>
+      <p class="lead"><a href="mailto:{{ SITE_INFO.EMAIL }}">{{ SITE_INFO.EMAIL }}</a></p>
+      <p class="lead"><a href="https://scholar.google.com/citations?hl=en&user=CfDaAq0AAAAJ" target="_blank">Google Scholar</a></p>
+      <nav class="sidebar-nav">
+        {% for m in MENUITEMS %}
+            {% set label = m[0] %}
+            {% set link = m[1] %}
+            <a class="sidebar-nav-item active" href="{{ link }}">{{ label }}</a>
+        {% endfor %}
+        <!--<a class="sidebar-nav-item" href="/blog/index.html">Blog</a>
+        <a class="sidebar-nav-item" href="/notes/">Notes</a>
+        <a class="sidebar-nav-item" href="/links/">Links</a>-->
+      </nav>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+{{ super() }}
+<div class="page">
+    {% if page %}
+        <h1 class="page-title">{{ page.title }}</h1>
+        {{ page.content }}
+    {% else %}
+        PAGE OBJECT IS MISSING
+    {% endif %}
+</div>
+{% endblock %}

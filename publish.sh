@@ -1,3 +1,8 @@
 #!/bin/bash
 
-git subtree push --prefix _site origin gh-pages
+
+echo "Publishing onto Github..."
+git subtree push --prefix output origin gh-pages
+
+echo "Program ends."
+

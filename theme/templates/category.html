@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ category }}</h1>
+<ul>
+{% for article in dates %}
+    <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} ({{ article.date.strftime("%Y-%m-%d") }})</a></li>
+{% endfor %}
+</ul>
+{% endblock %}

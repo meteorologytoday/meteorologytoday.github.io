@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+{{ super() }}
+<div class="page">
+    {% if article %}
+        <h1 class="page-title">{{ article.title }}</h1>
+        <p>{{ article.date.strftime("%Y-%m-%d") }}</p>
+        {{ article.content }}
+    {% else %}
+        ARTICLE OBJECT IS MISSING
+    {% endif %}
+</div>
+{% endblock %}
