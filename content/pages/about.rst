@@ -37,9 +37,9 @@ Publications
 * Kuo, H. C., Tsujino, S., Hsu, T. Y., Peng, M. S., & Shih-Hao, S. U (2021): Scaling law for boundary layer inner eyewall pumping in concentric eyewalls. Journal of Geophysical Research: Atmospheres, e2021JD035518. [`Link <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035518>`__]
 * (Master Thesis) Hsu, T.-Y., Kuo, H.-C. (2017) : Dynamic Efficiency of Heat and Momentum in Balanced Vortex. National Taiwan University
 
-==================
+==============================
 Oral Presentations and Posters
-==================
+==============================
 
 * (Poster) American Geophysical Union AGU Fall Meeting Dec 8--15, Washington D.C., 2024: The Modification of Air--Sea Fluxes by Quasi-periodic Sea Surface Temperature Structures in a Cross-Gradient Scenario
 * (Oral) International Atmospheric Rivers Conference 2024 (IARC24), La Jolla, California, United States, June 24--27, 2024: The Modification of Air-Sea Fluxes within Atmospheric Rivers by Mesoscale Sea Surface Temperature Structures [`Website <https://cw3e.ucsd.edu/iarc2024/>__`]
