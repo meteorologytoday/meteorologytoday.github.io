@@ -42,8 +42,8 @@ Oral Presentations and Posters
 ==============================
 
 * (Poster) American Geophysical Union AGU Fall Meeting Dec 8--15, Washington D.C., 2024: The Modification of Air--Sea Fluxes by Quasi-periodic Sea Surface Temperature Structures in a Cross-Gradient Scenario
-* (Oral) International Atmospheric Rivers Conference 2024 (IARC24), La Jolla, California, United States, June 24--27, 2024: The Modification of Air-Sea Fluxes within Atmospheric Rivers by Mesoscale Sea Surface Temperature Structures [`Website <https://cw3e.ucsd.edu/iarc2024/>__`]
-* (Oral) 104rd American Meteorological Society (AMS) Annual Meeting, Baltimore, MD, United States, 2024: Response of Sea Surface Temperature to Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2024/>__`]
+* (Oral) International Atmospheric Rivers Conference 2024 (IARC24), La Jolla, California, United States, June 24--27, 2024: The Modification of Air-Sea Fluxes within Atmospheric Rivers by Mesoscale Sea Surface Temperature Structures [`Website <https://cw3e.ucsd.edu/iarc2024/>`__]
+* (Oral) 104rd American Meteorological Society (AMS) Annual Meeting, Baltimore, MD, United States, 2024: Response of Sea Surface Temperature to Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2024/>`__]
 * (Oral, virtual) Climate Hotspot in Action (CHiA) Webinar, National Taiwan University, 2023: A Hierarchy of Global Ocean Models Coupled to CESM1 [`Website <https://hydro.as.ntu.edu.tw/chia/webinar-series-2/>`__]
 * (Oral, virtual) CESM Climate Variability and Change Winter Working Group Meeting, 2023: A Hierarchy of Global Ocean Models Coupled to CESM1 [`Website <https://www.cesm.ucar.edu/events/working-groups/2023>`__]
 * (Oral) 103rd AMS Annual Meeting, Denver, CO, United States, 2023: Explore the Effect of Air-sea Coupling on Tropical Rainfall under Global Warming [`Website <https://annual.ametsoc.org/index.cfm/2023/>`__]
