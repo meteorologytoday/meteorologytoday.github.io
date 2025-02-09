@@ -36,16 +36,34 @@
 <div class="page">
         <h1 class="page-title">Study note for idealized tropical coupled model</h1>
         <p>2025-02-08</p>
-        <p>Linear model <a class="citation-reference" href="#wangxie1998" id="citation-reference-1">[WangXie1998]</a> potential improvement:</p>
+        <p># Linear model <a class="citation-reference" href="#wangxie1998" id="citation-reference-1">[WangXie1998]</a> potential improvement:</p>
 <ul class="simple">
-<li>There is no moisture budget equation!</li>
-<li>Cloudiness decreases solar heating, but it does not account for increased downward longwave heating. This impact the sensitivity of <span class="math">\(\gamma\)</span> in Equation <cite>A1.h</cite>.</li>
+<li>There is no moisture budget equation. This is considered in <a class="citation-reference" href="#liuwang2013" id="citation-reference-2">[LiuWang2013]</a>.</li>
+<li>Cloudiness decreases solar heating, but it does not account for increased downward longwave heating. This impact the sensitivity of <span class="math">\(\gamma\)</span> in Equation <tt class="docutils literal">A1.h</tt>.</li>
 <li>There is no consideration of precipitation. Therefore, barrier layer effect (salinity) can be added to mixed layer <span class="math">\(h_1\)</span> evolution.</li>
 </ul>
+<p># Model <a class="citation-reference" href="#liuwang2013" id="citation-reference-3">[LiuWang2013]</a>:</p>
+<ul class="simple">
+<li>They used MJO <tt class="docutils literal">skeleton</tt> model <a class="citation-reference" href="#majdastechmann2009" id="citation-reference-4">[MajdaStechmann2009]</a>, which contains moisture budget equation.</li>
+<li>They did not put longwave radiation feedback into the SST equation.</li>
+</ul>
+<p># Reference</p>
 <table class="docutils citation" frame="void" id="wangxie1998" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
 <tr><td class="label"><a class="fn-backref" href="#citation-reference-1">[WangXie1998]</a></td><td>Wang, B., &amp; Xie, X. (1998). Coupled modes of the warm pool climate system. Part I: The role of air–sea interaction in maintaining Madden–Julian oscillation. Journal of Climate, 11(8), 2116-2135.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="majdastechmann2009" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#citation-reference-4">[MajdaStechmann2009]</a></td><td>Majda, A. J., &amp; Stechmann, S. N. (2009). The skeleton of tropical intraseasonal oscillations. Proceedings of the National Academy of Sciences, 106(21), 8417-8422.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="liuwang2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[LiuWang2013]</td><td><em>(<a class="fn-backref" href="#citation-reference-2">1</a>, <a class="fn-backref" href="#citation-reference-3">2</a>)</em> Liu, F., &amp; Wang, B. (2013). An air–sea coupled skeleton model for the Madden–Julian oscillation. Journal of the atmospheric sciences, 70(10), 3147-3156.</td></tr>
 </tbody>
 </table>
 <script type='text/javascript'>if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {

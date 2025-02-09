@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Tien-Yiao Hsu Personal Website - science-notes</title><link href="https://meteorologytoday.github.io/" rel="alternate"></link><link href="https://meteorologytoday.github.io/feeds/science-notes.atom.xml" rel="self"></link><id>https://meteorologytoday.github.io/</id><updated>2025-02-08T00:00:00-08:00</updated><entry><title>Study note for idealized tropical coupled model</title><link href="https://meteorologytoday.github.io/2025/20250208_MJOidealized.html" rel="alternate"></link><published>2025-02-08T00:00:00-08:00</published><updated>2025-02-08T00:00:00-08:00</updated><author><name>Tien-Yiao Hsu</name></author><id>tag:meteorologytoday.github.io,2025-02-08:/2025/20250208_MJOidealized.html</id><summary type="html">&lt;p class="first last"&gt;Links&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Linear model &lt;a class="citation-reference" href="#wangxie1998" id="citation-reference-1"&gt;[WangXie1998]&lt;/a&gt; potential improvement:&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;# Linear model &lt;a class="citation-reference" href="#wangxie1998" id="citation-reference-1"&gt;[WangXie1998]&lt;/a&gt; potential improvement:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;There is no moisture budget equation!&lt;/li&gt;
-&lt;li&gt;Cloudiness decreases solar heating, but it does not account for increased downward longwave heating. This impact the sensitivity of &lt;span class="math"&gt;\(\gamma\)&lt;/span&gt; in Equation &lt;cite&gt;A1.h&lt;/cite&gt;.&lt;/li&gt;
+&lt;li&gt;There is no moisture budget equation. This is considered in &lt;a class="citation-reference" href="#liuwang2013" id="citation-reference-2"&gt;[LiuWang2013]&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Cloudiness decreases solar heating, but it does not account for increased downward longwave heating. This impact the sensitivity of &lt;span class="math"&gt;\(\gamma\)&lt;/span&gt; in Equation &lt;tt class="docutils literal"&gt;A1.h&lt;/tt&gt;.&lt;/li&gt;
 &lt;li&gt;There is no consideration of precipitation. Therefore, barrier layer effect (salinity) can be added to mixed layer &lt;span class="math"&gt;\(h_1\)&lt;/span&gt; evolution.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;# Model &lt;a class="citation-reference" href="#liuwang2013" id="citation-reference-3"&gt;[LiuWang2013]&lt;/a&gt;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;They used MJO &lt;tt class="docutils literal"&gt;skeleton&lt;/tt&gt; model &lt;a class="citation-reference" href="#majdastechmann2009" id="citation-reference-4"&gt;[MajdaStechmann2009]&lt;/a&gt;, which contains moisture budget equation.&lt;/li&gt;
+&lt;li&gt;They did not put longwave radiation feedback into the SST equation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# Reference&lt;/p&gt;
 &lt;table class="docutils citation" frame="void" id="wangxie1998" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#citation-reference-1"&gt;[WangXie1998]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Wang, B., &amp;amp; Xie, X. (1998). Coupled modes of the warm pool climate system. Part I: The role of air–sea interaction in maintaining Madden–Julian oscillation. Journal of Climate, 11(8), 2116-2135.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils citation" frame="void" id="majdastechmann2009" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#citation-reference-4"&gt;[MajdaStechmann2009]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Majda, A. J., &amp;amp; Stechmann, S. N. (2009). The skeleton of tropical intraseasonal oscillations. Proceedings of the National Academy of Sciences, 106(21), 8417-8422.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils citation" frame="void" id="liuwang2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;[LiuWang2013]&lt;/td&gt;&lt;td&gt;&lt;em&gt;(&lt;a class="fn-backref" href="#citation-reference-2"&gt;1&lt;/a&gt;, &lt;a class="fn-backref" href="#citation-reference-3"&gt;2&lt;/a&gt;)&lt;/em&gt; Liu, F., &amp;amp; Wang, B. (2013). An air–sea coupled skeleton model for the Madden–Julian oscillation. Journal of the atmospheric sciences, 70(10), 3147-3156.&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
