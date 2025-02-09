@@ -1,0 +1,18 @@
+Study Note On MJO Theory
+##########################
+
+:date: 2024-11-30
+:category: science-notes
+:slug: MJOidealized
+:authors: Tien-Yiao Hsu
+:summary: Links
+:template: article
+:title: Study note for idealized tropical coupled model
+
+Linear model [WangXie1998]_.
+
+
+
+
+.. [WangXie1998] Wang, B., & Xie, X. (1998). Coupled modes of the warm pool climate system. Part I: The role of air–sea interaction in maintaining Madden–Julian oscillation. Journal of Climate, 11(8), 2116-2135.
+

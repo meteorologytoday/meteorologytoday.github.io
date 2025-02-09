@@ -31,8 +31,6 @@ Publications
 ============
 
 * Hsu, T. Y., Mazloff, M. R., Gille, S. T., Freilich, M. A., Sun, R., & Cornuelle, B. D. (2024). Response of sea surface temperature to atmospheric rivers. Nature Communications, 15(1), 5018. [`Link <https://doi.org/10.1038/s41467-024-48486-9>`__]
-*
-* Hsu, T. Y., Mazloff, M. R., Gille, S. T., Freilich, M. A., Sun, R., & Cornuelle, B. D. (2024). Response of sea surface temperature to atmospheric rivers. Nature Communications, 15(1), 5018. [`Link <https://doi.org/10.1038/s41467-024-48486-9>`__]
 * Hsu, T. Y., Magnusdottir, G., & Primeau, F. (2023). The Effect of Tropical Pacific Air‐Sea Coupling on the Rainfall Response to Quadrupled CO2 Forcing. Geophysical Research Letters, 50(15), e2023GL103466. [`Link <https://doi.org/10.1029/2023GL103466>`__]
 * Hsu, T. Y. (2022). Understanding the Role of the Ocean in a Changing Climate through Model Hierarchies (Doctoral dissertation, UC Irvine).
 * Hsu, T.-Y., Primeau, F., & Magnusdottir, G. (2022) : Forming a Hierarchy of Climate Models using Ekman Mixed-layer Ocean Model coupled to CESM1. Journal of Advances in Modeling Earth Systems [`Link <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002979>`__]
@@ -43,6 +41,7 @@ Publications
 Oral Presentations and Posters
 ==============================
 
+* (Oral) 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, LA, United States, 2025: Assessing the Impact of Air-Sea Coupling on Subseasonal Predictability of Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2025/>__`]
 * (Poster) American Geophysical Union AGU Fall Meeting Dec 8--15, Washington D.C., 2024: The Modification of Air--Sea Fluxes by Quasi-periodic Sea Surface Temperature Structures in a Cross-Gradient Scenario
 * (Oral) International Atmospheric Rivers Conference 2024 (IARC24), La Jolla, California, United States, June 24--27, 2024: The Modification of Air-Sea Fluxes within Atmospheric Rivers by Mesoscale Sea Surface Temperature Structures [`Website <https://cw3e.ucsd.edu/iarc2024/>`__]
 * (Oral) 104rd American Meteorological Society (AMS) Annual Meeting, Baltimore, MD, United States, 2024: Response of Sea Surface Temperature to Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2024/>`__]
