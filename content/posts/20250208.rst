@@ -1,7 +1,7 @@
 Study Note On MJO Theory
 ##########################
 
-:date: 2024-11-30
+:date: 2025-02-08
 :category: science-notes
 :slug: MJOidealized
 :authors: Tien-Yiao Hsu
@@ -12,7 +12,7 @@ Study Note On MJO Theory
 Linear model [WangXie1998]_ potential improvement:
 
 - Cloudiness decreases solar heating, but it does not account for increased downward longwave heating.
-- Barrier layer effect (salinity) can be added to mixed layer (\( h_1 \)) evolution.
+- Barrier layer effect (salinity) can be added to mixed layer :math:`h_1` evolution.
 
 
 
