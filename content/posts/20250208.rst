@@ -9,7 +9,10 @@ Study Note On MJO Theory
 :template: article
 :title: Study note for idealized tropical coupled model
 
-Linear model [WangXie1998]_.
+Linear model [WangXie1998]_ potential improvement:
+
+- Cloudiness decreases solar heating, but it does not account for increased downward longwave heating.
+- Barrier layer effect (salinity) can be added to mixed layer (\( h_1 \)) evolution.
 
 
 
