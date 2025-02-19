@@ -2,7 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Tien-Yiao Hsu Personal Website - science-notes</title><link href="https://meteorologytoday.github.io/" rel="alternate"></link><link href="https://meteorologytoday.github.io/feeds/science-notes.atom.xml" rel="self"></link><id>https://meteorologytoday.github.io/</id><updated>2025-02-08T00:00:00-08:00</updated><entry><title>Study note for idealized tropical coupled model</title><link href="https://meteorologytoday.github.io/2025/20250208_MJOidealized.html" rel="alternate"></link><published>2025-02-08T00:00:00-08:00</published><updated>2025-02-08T00:00:00-08:00</updated><author><name>Tien-Yiao Hsu</name></author><id>tag:meteorologytoday.github.io,2025-02-08:/2025/20250208_MJOidealized.html</id><summary type="html">&lt;p class="first last"&gt;Links&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;# Linear model &lt;a class="citation-reference" href="#wangxie1998" id="citation-reference-1"&gt;[WangXie1998]&lt;/a&gt; potential improvement:&lt;/p&gt;
 &lt;ul class="simple"&gt;
+<<<<<<< HEAD
 &lt;li&gt;There is no moisture budget equation. This is considered in &lt;a class="citation-reference" href="#liuwang2013" id="citation-reference-2"&gt;[LiuWang2013]&lt;/a&gt;.&lt;/li&gt;
+=======
+&lt;li&gt;There is no moisture budget equation. However, this is considered in their later paper &lt;a class="citation-reference" href="#liuwang2013" id="citation-reference-2"&gt;[LiuWang2013]&lt;/a&gt;.&lt;/li&gt;
+>>>>>>> a3f83e2 (Change)
 &lt;li&gt;Cloudiness decreases solar heating, but it does not account for increased downward longwave heating. This impact the sensitivity of &lt;span class="math"&gt;\(\gamma\)&lt;/span&gt; in Equation &lt;tt class="docutils literal"&gt;A1.h&lt;/tt&gt;.&lt;/li&gt;
 &lt;li&gt;There is no consideration of precipitation. Therefore, barrier layer effect (salinity) can be added to mixed layer &lt;span class="math"&gt;\(h_1\)&lt;/span&gt; evolution.&lt;/li&gt;
 &lt;/ul&gt;
