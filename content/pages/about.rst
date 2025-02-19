@@ -41,7 +41,7 @@ Publications
 Oral Presentations and Posters
 ==============================
 
-* (Oral) 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, LA, United States, 2025: Assessing the Impact of Air-Sea Coupling on Subseasonal Predictability of Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2025/>__`]
+* (Oral) 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, LA, United States, 2025: Assessing the Impact of Air-Sea Coupling on Subseasonal Predictability of Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2025/>`__]
 * (Poster) American Geophysical Union AGU Fall Meeting Dec 8--15, Washington D.C., 2024: The Modification of Air--Sea Fluxes by Quasi-periodic Sea Surface Temperature Structures in a Cross-Gradient Scenario
 * (Oral) International Atmospheric Rivers Conference 2024 (IARC24), La Jolla, California, United States, June 24--27, 2024: The Modification of Air-Sea Fluxes within Atmospheric Rivers by Mesoscale Sea Surface Temperature Structures [`Website <https://cw3e.ucsd.edu/iarc2024/>`__]
 * (Oral) 104rd American Meteorological Society (AMS) Annual Meeting, Baltimore, MD, United States, 2024: Response of Sea Surface Temperature to Atmospheric Rivers [`Website <https://annual.ametsoc.org/index.cfm/2024/>`__]

@@ -9,13 +9,23 @@ Study Note On MJO Theory
 :template: article
 :title: Study note for idealized tropical coupled model
 
-Linear model [WangXie1998]_ potential improvement:
+# Linear model [WangXie1998]_ potential improvement:
 
-- Cloudiness decreases solar heating, but it does not account for increased downward longwave heating.
-- Barrier layer effect (salinity) can be added to mixed layer :math:`h_1` evolution.
+- There is no moisture budget equation. However, this is considered in their later paper [LiuWang2013]_. 
+- Cloudiness decreases solar heating, but it does not account for increased downward longwave heating. This impact the sensitivity of :math:`\gamma` in Equation ``A1.h``.
+- There is no consideration of precipitation. Therefore, barrier layer effect (salinity) can be added to mixed layer :math:`h_1` evolution.
 
 
+# Model [LiuWang2013]_:
 
+- They used MJO ``skeleton`` model [MajdaStechmann2009]_, which contains moisture budget equation.
+- They did not put longwave radiation feedback into the SST equation.
+
+
+# Reference
 
 .. [WangXie1998] Wang, B., & Xie, X. (1998). Coupled modes of the warm pool climate system. Part I: The role of air–sea interaction in maintaining Madden–Julian oscillation. Journal of Climate, 11(8), 2116-2135.
+.. [MajdaStechmann2009] Majda, A. J., & Stechmann, S. N. (2009). The skeleton of tropical intraseasonal oscillations. Proceedings of the National Academy of Sciences, 106(21), 8417-8422.
+.. [LiuWang2013] Liu, F., & Wang, B. (2013). An air–sea coupled skeleton model for the Madden–Julian oscillation. Journal of the atmospheric sciences, 70(10), 3147-3156.
+
 
