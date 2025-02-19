@@ -22,8 +22,8 @@ Data Assimilation
 ==============
 Opporturnities
 ==============
-* `Funding Opportunities </pages/funding-opp>`
-* `Job Opportunities </pages/job-opp>`
+* `Funding Opportunities </pages/funding-opp>`__
+* `Job Opportunities </pages/job-opp>`__
 
 ====
 Misc
