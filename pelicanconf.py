@@ -31,8 +31,6 @@ MENUITEMS = (
   ('Notes', '/pages/notes'),
   ('Posts', '/categories'),
   ('Links', '/pages/links'),
-  ('Job Opp.', '/pages/job-opp'),
-  ('Funding Opp.', '/pages/funding-opp'),
 )
 
 STATIC_PATHS = ['static']
