@@ -18,4 +18,7 @@ United States
 * AGU Job Posting [`Link <https://findajob.agu.org/jobs/>`__]
 * UCI ESS (including postdoc and project scientists pool) [`Link <https://www.ess.uci.edu/employment-opportunities>`__]
 
-
+*****
+OTHER
+*****
+* University of Reading (Earth System Prediction) [`Link <https://research.reading.ac.uk/earth-system-prediction>`__]
