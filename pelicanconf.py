@@ -1,6 +1,6 @@
 SITE_INFO = dict(
     AUTHOR = "Tien Tien",
-    EMAIL = "tienyiao@ucsd.edu",
+    EMAIL = "tienyiao@pik-potsdam.de",
     TITLE = "Personal Website",
 )
 
